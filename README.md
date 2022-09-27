@@ -9,3 +9,15 @@ linked list implementations.c
 matrice multiplication.c
 ODD EVEN.c
 stack operations.c
+insertion sort
+heap sort
+merge sort
+quick sort
+hashing
+queue
+matrix multiplication
+array deletion
+array search
+insert in AVL
+deletion in AVL
+search in AVL
