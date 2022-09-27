@@ -31,8 +31,6 @@
 
 +queue
 
-+matrix multiplication
-
 +array deletion
 
 +array search
