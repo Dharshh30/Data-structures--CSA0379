@@ -1,6 +1,4 @@
 # Data-structures--CSA0379
-+array deletion.c
-
 +binary search.c
 
 +FACTORIAL .c
